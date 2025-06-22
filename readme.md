@@ -5,7 +5,7 @@ This project presents an end-to-end data analysis and visualization exercise usi
 
 ## Objective
 - Clean and structure raw survey data directly within Power BI using Power Query
-- Build an interactive, insight-rich dashboard without using DAX or external data processing tools
+- Build an interactive, insight-rich dashboard without using external data processing tools
 - Present findings in a clear and visual format to enable exploration and understanding of global trends in the data profession
 
 ## Project Files
