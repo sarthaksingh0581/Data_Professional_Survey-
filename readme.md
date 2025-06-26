@@ -11,7 +11,7 @@ This project presents an end-to-end data analysis and visualization exercise usi
 ## Project Files
 - `Data Professional Survey -RAW.xlsx`: Original raw dataset
 - `Data Professional Survey -Processed.xlsx`: Cleaned dataset output from Power BI transformations
-- `Data Professional Survey Breakdown.pbix`: Power BI report file containing all visuals and Power Query transformations
+- `Data Professional Survey Breakdown.pbix`: Power BI report file containing all visuals, dashboards, and Power Query transformations.
 - `Dashboard Insights – Analysis Summary`: A standalone document providing an in-depth narrative of the dashboard’s findings
 
 ## Tools Used
